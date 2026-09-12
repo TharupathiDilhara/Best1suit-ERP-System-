@@ -1,0 +1,8 @@
+{
+  "name": "Best1suit (ERP System)",
+  "description": "A web portal for Best1suit to manage customer measurements for shirts, trousers, and coats, and track coat rental return due dates and fines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
